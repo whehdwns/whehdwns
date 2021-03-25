@@ -5,7 +5,8 @@
 - Machine learning
 
 ## About Me
-- Portfolio Website (https://whehdwns.github.io/DongjunCho/)
+- <a href="https://whehdwns.github.io/DongjunCho/"> Portfolio Website 
+- <a href="https://www.linkedin.com/in/dongjun-dj-cho/"> LinkedIn
 
 <!--
 **whehdwns/whehdwns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
