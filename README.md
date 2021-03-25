@@ -1,12 +1,19 @@
 ### Hi there 👋
 
+## About Me
+- <a href="https://whehdwns.github.io/DongjunCho/"> Portfolio Website 
+- <a href="https://www.linkedin.com/in/dongjun-dj-cho/"> LinkedIn
+
+## Education
+- Johns Hopkins University
+- 	Master of Science in Computer Science
+- University of California Merced
+- 	Bachelor of Science in Computer Science and Engineering
+
 ## Interest
 - Data Analytics
 - Machine learning
 
-## About Me
-- <a href="https://whehdwns.github.io/DongjunCho/"> Portfolio Website 
-- <a href="https://www.linkedin.com/in/dongjun-dj-cho/"> LinkedIn
 
 <!--
 **whehdwns/whehdwns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
