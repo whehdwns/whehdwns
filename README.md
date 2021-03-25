@@ -5,7 +5,7 @@
 - <a href="https://www.linkedin.com/in/dongjun-dj-cho/"> LinkedIn
 
 ## Education
-- Johns Hopkins University(2020 ~ Present)
+- Johns Hopkins University (2020 ~ Present)
 	- Master of Science in Computer Science
 - University of California Merced (2016-2019)
  	- Bachelor of Science in Computer Science and Engineering
