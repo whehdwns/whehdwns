@@ -10,12 +10,12 @@
 - University of California Merced (August 2016 - December 2019)
  	- Bachelor of Science in Computer Science and Engineering
 
-### Languages and Tools:
-
+## Languages and Tools:
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
 
 <br />
+
 
 ## Interest
 - Data Analytics
