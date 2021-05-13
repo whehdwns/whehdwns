@@ -1,23 +1,21 @@
 ### Hi there 👋
 
-## About Me
+### About Me
 - <a href="https://whehdwns.github.io/DongjunCho/"> Portfolio Website 
 - <a href="https://www.linkedin.com/in/dongjun-dj-cho/"> LinkedIn
 
-## Education
+### Education
 - Johns Hopkins University (August 2020 ~ Present)
 	- Master of Science in Computer Science
 - University of California Merced (August 2016 - December 2019)
  	- Bachelor of Science in Computer Science and Engineering
 
-## Languages and Tools:
+### Languages and Tools:
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
 
-<br />
 
-
-## Interest
+### Interest
 - Data Analytics
 - Machine learning
 
