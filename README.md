@@ -22,6 +22,7 @@
 - Data Analytics
 - Data Visualization
 - Machine learning
+- Information Retrieval / NLP
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whehdwns)](https://github.com/whehdwns?tab=repositories) -->
 
