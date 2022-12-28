@@ -21,8 +21,9 @@
 ### Interest
 - Data Analytics
 - Data Visualization
-- Machine learning
 - Information Retrieval / NLP
+- Machine learning
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whehdwns)](https://github.com/whehdwns?tab=repositories) -->
 
