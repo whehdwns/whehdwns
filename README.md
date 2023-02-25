@@ -19,10 +19,10 @@
 
 
 ### Interest
-- Data Analytics
-- Data Visualization
+- Data Analytics (Python, SQL)
+- Data Visualization (Tableau, Power BI)
 - Information Retrieval / NLP
-- Machine learning
+- Machine learning 
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whehdwns)](https://github.com/whehdwns?tab=repositories) -->
