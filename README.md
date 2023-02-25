@@ -2,7 +2,7 @@
 
 
 ### About Me
-- <a href="https://whehdwns.github.io/DongjunCho/"> Portfolio Website 
+<!-- - <a href="https://whehdwns.github.io/DongjunCho/"> Portfolio Website -->
 - <a href="https://www.linkedin.com/in/dongjun-dj-cho/"> LinkedIn
 - <a href=https://public.tableau.com/app/profile/dongjun.cho#!/> Tableau
 
