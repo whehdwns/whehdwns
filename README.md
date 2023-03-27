@@ -19,7 +19,7 @@
 
 
 ### Interest
-- Data Analytics (Python, SQL)
+- Data Analytics (Python, SQL, Excel)
 - Data Visualization (Tableau, Power BI)
 - Information Retrieval / NLP
 - Machine learning 
