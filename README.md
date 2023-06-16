@@ -7,7 +7,7 @@
 - <a href=https://public.tableau.com/app/profile/dongjun.cho#!/> Tableau
 
 ### Education
-- Johns Hopkins University (August 2020 ~ Present)
+- Johns Hopkins University (August 2020 - May 2023)
 	- Master of Science in Computer Science / Concentration in Data Science and Cloud Computing
 - University of California Merced (August 2016 - December 2019)
  	- Bachelor of Science in Computer Science and Engineering
